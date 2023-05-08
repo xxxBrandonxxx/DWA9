@@ -1,0 +1,1 @@
+must turn the book preview abstraction into a fully-working factory function Note: No Classes web component.
